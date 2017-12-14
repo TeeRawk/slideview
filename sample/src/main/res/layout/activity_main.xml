@@ -18,6 +18,7 @@
         android:layout_marginTop="5dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:scrollbarSize="60dp"
         app:sv_buttonBackgroundColor="#fff"
         app:sv_buttonImage="@drawable/ic_chevron_double_right_pink"
         app:sv_slideBackgroundColor="@color/colorAccent"
