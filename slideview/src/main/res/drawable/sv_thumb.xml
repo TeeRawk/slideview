@@ -3,7 +3,7 @@
     <item android:id="@+id/buttonBackground">
         <shape
             android:shape="rectangle">
-<size android:width="76dp" android:height="60dp"/>
+<size android:width="76dp" android:height="200dp"/>
             <solid
                 android:color="#fff">
             </solid>
