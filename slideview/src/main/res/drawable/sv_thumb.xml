@@ -17,8 +17,6 @@
     <item
         android:left="15dp"
         android:right="15dp"
-        android:bottom="5dp"
-        android:top="5dp"
         android:gravity="center"
         android:id="@+id/buttonImage"
         android:drawable="@drawable/sv_ic_chevron_double_right" />

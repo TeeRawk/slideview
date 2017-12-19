@@ -7,7 +7,7 @@
     <ng.max.slideview.Slider
         android:id="@+id/sv_slider"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="50dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_centerVertical="true"
